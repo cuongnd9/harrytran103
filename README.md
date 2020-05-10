@@ -12,6 +12,8 @@
 
 - [typescript-template](https://github.com/103cuong/typescript-template) - 🌱 TypeScript template. ![GitHub stars](https://img.shields.io/github/stars/103cuong/typescript-template?style=social)
 
+- [ts-npm-template](https://github.com/103cuong/ts-npm-template) - A TypeScript template 🌼 for npm package. ![GitHub stars](https://img.shields.io/github/stars/103cuong/ts-npm-template?style=social)
+
 ## React
 
 - [30-days-of-react](https://github.com/103cuong/30-days-of-react) - 🌲🚀 30 Days of React. ![GitHub stars](https://img.shields.io/github/stars/103cuong/30-days-of-react?style=social)
