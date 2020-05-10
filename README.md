@@ -5,7 +5,7 @@
 - [awesome-linux-apps](https://github.com/103cuong/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions. ![GitHub stars](https://img.shields.io/github/stars/103cuong/awesome-linux-apps?style=social)
 - [fly-with-go](https://github.com/103cuong/fly-with-go) - 🐹 go is the language I want to 🛶 conquer next 🌍. ![GitHub stars](https://img.shields.io/github/stars/103cuong/fly-with-go?style=social)
 - [giin](https://github.com/103cuong/giin) - 🦄 Simple and lightweight GraphQL client. ![GitHub stars](https://img.shields.io/github/stars/103cuong/giin?style=social)
-- [store-pattern](https://github.com/uiters/store-pattern) - 👑 The prototype for management applications. ![GitHub stars](https://img.shields.io/github/stars/103cuong/store-pattern?style=social)
+- [store-pattern](https://github.com/uiters/store-pattern) - 👑 The prototype for management applications. ![GitHub stars](https://img.shields.io/github/stars/uiters/store-pattern?style=social)
 - [4pet](https://github.com/4pet-social/4pet) - 📱 Mobile app for 4pet social. ![GitHub stars](https://img.shields.io/github/stars/4pet-social/4pet?style=social)
 - [tick](https://github.com/103cuong/tick) - ✔️ Tick: Task & Reminder. ![GitHub stars](https://img.shields.io/github/stars/103cuong/tick?style=social)
 - [tick-service](https://github.com/103cuong/tick-service) - Awesome 🔥 service for https://github.com/103cuong/tick ![GitHub stars](https://img.shields.io/github/stars/103cuong/tick-service?style=social)
