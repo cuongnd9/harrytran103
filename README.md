@@ -1,6 +1,6 @@
 # me
 
-🦄 awesome repositories by [@103cuong](https://github.com/103cuong)
+🦄 awesome repositories by [@103cuong](https://github.com/103cuong) ![GitHub stars](https://img.shields.io/github/stars/103cuong/me?style=social)
 
 - [awesome-linux-apps](https://github.com/103cuong/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions. ![GitHub stars](https://img.shields.io/github/stars/103cuong/awesome-linux-apps?style=social)
 - [fly-with-go](https://github.com/103cuong/fly-with-go) - 🐹 go is the language I want to 🛶 conquer next 🌍. ![GitHub stars](https://img.shields.io/github/stars/103cuong/fly-with-go?style=social)
