@@ -125,6 +125,10 @@
 
 - [fly-with-go](https://github.com/103cuong/fly-with-go) - 🐹 go is the language I want to 🛶 conquer next 🌍. ![GitHub stars](https://img.shields.io/github/stars/103cuong/fly-with-go?style=social)
 
+## Python
+
+- [python](https://github.com/103cuong/python) - 🐍 Getting Started with Python. ![GitHub stars](https://img.shields.io/github/stars/103cuong/python?style=social)
+
 ## Flutter
 
 - [store-pattern](https://github.com/uiters/store-pattern) - 👑 The prototype for management applications. ![GitHub stars](https://img.shields.io/github/stars/uiters/store-pattern?style=social)
