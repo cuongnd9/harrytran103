@@ -96,8 +96,6 @@
 
 - [node-kit](https://github.com/103cuong/node-kit) - 🐢🚀 A Node.js Kit with TypeScript, REST, GraphQL, TypeORM, PostgreSQL and awesome tools. ![GitHub stars](https://img.shields.io/github/stars/103cuong/node-kit?style=social)
 
-- [node-kit-docker](https://github.com/103cuong/node-kit-docker) - 🐳🚀 The Docker toolkit for https://github.com/103cuong/node-kit ![GitHub stars](https://img.shields.io/github/stars/103cuong/node-kit-docker?style=social)
-
 - [node-graphql-kit](https://github.com/103cuong/node-graphql-kit) - 🧘🚀 A Node.js Kit with GraphQL, Prisma, PostgreSQL, MongoDB and awesome tools. ![GitHub stars](https://img.shields.io/github/stars/103cuong/node-graphql-kit?style=social)
 
 - [node-boilerplate](https://github.com/103cuong/node-boilerplate) - 🌏🚀 A Node.js boilerplate with RESTful, GraphQL, Prisma, PostgreSQL and awesome tools. ![GitHub stars](https://img.shields.io/github/stars/103cuong/node-boilerplate?style=social)
