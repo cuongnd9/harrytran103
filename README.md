@@ -131,7 +131,7 @@
 
 ## Flutter
 
-- [store-pattern](https://github.com/uiters/store-pattern) - 👑 The prototype for management applications. ![GitHub stars](https://img.shields.io/github/stars/uiters/store-pattern?style=social)
+- [store-pattern](https://github.com/uiters/store-pattern) - 👑 The lightweight design pattern for small management applications. ![GitHub stars](https://img.shields.io/github/stars/uiters/store-pattern?style=social)
 
 - [4pet](https://github.com/4pet-social/4pet) - 📱 Mobile app for 4pet social. ![GitHub stars](https://img.shields.io/github/stars/4pet-social/4pet?style=social)
 
