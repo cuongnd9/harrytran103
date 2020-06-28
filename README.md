@@ -2,6 +2,14 @@
 
 > 🦄 awesome repositories by [@103cuong](https://github.com/103cuong)
 
+## Linux
+
+- [awesome-linux-apps](https://github.com/103cuong/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions. ![GitHub stars](https://img.shields.io/github/stars/103cuong/awesome-linux-apps?style=social)
+
+- [night-owl-pantheon](https://github.com/103cuong/night-owl-pantheon) - 🌌🦉Night Owl theme for Pantheon terminal. ![GitHub stars](https://img.shields.io/github/stars/103cuong/night-owl-pantheon?style=social)
+
+- [dotfiles](https://github.com/103cuong/dotfiles) - 📝 My dotfiles for Elementary OS. ![GitHub stars](https://img.shields.io/github/stars/103cuong/dotfiles?style=social)
+
 ## JavaScript / TypeScript
 
 - [javascript](https://github.com/103cuong/javascript) - 👑☀️ Getting Started with JavaScript. ![GitHub stars](https://img.shields.io/github/stars/103cuong/javascript?style=social)
@@ -174,11 +182,3 @@
 ## Nginx
 
 - [nginx](https://github.com/103cuong/nginx) - nginx from zero to hero. ![GitHub stars](https://img.shields.io/github/stars/103cuong/nginx?style=social)
-
-## Linux
-
-- [awesome-linux-apps](https://github.com/103cuong/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions. ![GitHub stars](https://img.shields.io/github/stars/103cuong/awesome-linux-apps?style=social)
-
-- [night-owl-pantheon](https://github.com/103cuong/night-owl-pantheon) - 🌌🦉Night Owl theme for Pantheon terminal. ![GitHub stars](https://img.shields.io/github/stars/103cuong/night-owl-pantheon?style=social)
-
-- [dotfiles](https://github.com/103cuong/dotfiles) - 📝 My dotfiles for Elementary OS. ![GitHub stars](https://img.shields.io/github/stars/103cuong/dotfiles?style=social)
