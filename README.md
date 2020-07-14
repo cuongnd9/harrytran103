@@ -1,6 +1,10 @@
-# me
+# 103cuong
 
-> 🦄 awesome repositories by [@103cuong](https://github.com/103cuong)
+> awesome repositories by 🦄 [@103cuong](https://github.com/103cuong)
+
+<p>
+  <img src="https://github.com/103cuong/103cuong/blob/master/cat.gif" alt="cat" width="200" />
+</p>
 
 ## Linux
 
@@ -34,7 +38,7 @@
 
 - [react-boilerplate](https://github.com/103cuong/react-boilerplate) - 🎣🌳 A React boilerplate with Hooks, Redux, Redux-Saga, React-Router, GraphQL and awesome tools. ![GitHub stars](https://img.shields.io/github/stars/103cuong/react-boilerplate?style=social)
 
-- [giin](https://github.com/103cuong/giin) - 🦄 Simple and lightweight GraphQL client. ![GitHub stars](https://img.shields.io/github/stars/103cuong/giin?style=social)
+- [hera](https://github.com/103cuong/hera) - 👩🏼‍💻 Simple and lightweight GraphQL client. ![GitHub stars](https://img.shields.io/github/stars/103cuong/hera?style=social)
 
 - [color-picker](https://github.com/103cuong/color-picker) - 🌈 Awesome Color Picker. ![GitHub stars](https://img.shields.io/github/stars/103cuong/color-picker?style=social)
 
@@ -98,11 +102,15 @@
 
 - [todos-apollo](https://github.com/103cuong/todos-apollo) - 🌳🗒️ Building Todos app using Node, React, Apollo. ![GitHub stars](https://img.shields.io/github/stars/103cuong/todos-apollo?style=social)
 
-- [giin](https://github.com/103cuong/giin) - 🦄 Simple and lightweight GraphQL client. ![GitHub stars](https://img.shields.io/github/stars/103cuong/giin?style=social)
+- [hera](https://github.com/103cuong/hera) - 🦄 Simple and lightweight GraphQL client. ![GitHub stars](https://img.shields.io/github/stars/103cuong/hera?style=social)
+
+- [juno](https://github.com/103cuong/juno) - 👩‍🚀 Pretty logger for Node. ![GitHub stars](https://img.shields.io/github/stars/103cuong/juno?style=social)
 
 - [tick-service](https://github.com/103cuong/tick-service) - Awesome 🔥 service for https://github.com/103cuong/tick ![GitHub stars](https://img.shields.io/github/stars/103cuong/tick-service?style=social)
 
 - [node-kit](https://github.com/103cuong/node-kit) - 🐢🚀 A Node.js Kit with TypeScript, REST, GraphQL, TypeORM, PostgreSQL and awesome tools. ![GitHub stars](https://img.shields.io/github/stars/103cuong/node-kit?style=social)
+
+- [graphql-kit](https://github.com/103cuong/graphql-kit) - 🛸🚀 A Node kit with TypeScript, GraphQL, Sequelize, PostgreSQL and awesome tools. ![GitHub stars](https://img.shields.io/github/stars/103cuong/graphql-kit?style=social)
 
 - [node-graphql-kit](https://github.com/103cuong/node-graphql-kit) - 🧘🚀 A Node.js Kit with GraphQL, Prisma, PostgreSQL, MongoDB and awesome tools. ![GitHub stars](https://img.shields.io/github/stars/103cuong/node-graphql-kit?style=social)
 
@@ -121,7 +129,7 @@
 
 - [nsdk](https://github.com/103cuong/nsdk) - The 🚀 SDK for 🌲 Node application. ![GitHub stars](https://img.shields.io/github/stars/103cuong/nsdk?style=social)
 
-- [thinid](https://github.com/103cuong/thinid) - 🚀📦 Easy way to create 🆔 unique ids. ![GitHub stars](https://img.shields.io/github/stars/103cuong/thinid?style=social)
+- [diana](https://github.com/103cuong/diana) - 👸🏻 Easy way to create 🆔 unique ids. ![GitHub stars](https://img.shields.io/github/stars/103cuong/diana?style=social)
 
 - [ts-npm-template](https://github.com/103cuong/ts-npm-template) - A TypeScript template 🌼 for npm package. ![GitHub stars](https://img.shields.io/github/stars/103cuong/ts-npm-template?style=social)
 
@@ -175,10 +183,18 @@
 
 - [dotnetcore_container](https://github.com/103cuong/dotnetcore_container) - Wrapping .Net Core app in 🐳 container / Docker. ![GitHub stars](https://img.shields.io/github/stars/103cuong/dotnetcore_container?style=social)
 
+- [docker-npm-git-ssh](https://github.com/103cuong/docker-npm-git-ssh) - docker + npm + git + ssh ![GitHub stars](https://img.shields.io/github/stars/103cuong/docker-npm-git-ssh?style=social)
+
+- [prod-env](https://github.com/4pet-social/prod-env) - Docker for production environment ![GitHub stars](https://img.shields.io/github/stars/4pet-social/prod-env?style=social)
+
 ## Kubernetes
 
 - [kubernetes](https://github.com/103cuong/kubernetes) - Kubernetes from 🌱 zero to 🌲 hero. ![GitHub stars](https://img.shields.io/github/stars/103cuong/kubernetes?style=social)
 
+- [k8s](https://github.com/4pet-social/k8s) - Kubernetes for 4pet-social ![GitHub stars](https://img.shields.io/github/stars/4pet-social/k8s?style=social)
+
 ## Nginx
 
 - [nginx](https://github.com/103cuong/nginx) - nginx from zero to hero. ![GitHub stars](https://img.shields.io/github/stars/103cuong/nginx?style=social)
+
+## [More repositories ...](https://github.com/103cuong?tab=repositories)
