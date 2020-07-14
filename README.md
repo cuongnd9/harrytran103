@@ -3,7 +3,7 @@
 > awesome repositories by 🦄 [@103cuong](https://github.com/103cuong)
 
 <p>
-  <img src="https://github.com/103cuong/103cuong/blob/master/cat.gif" alt="cat" width="200" />
+  <img src="https://github.com/103cuong/103cuong/blob/master/cat.gif" alt="cat" width="250" />
 </p>
 
 ## Linux
