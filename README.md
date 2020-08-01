@@ -1,10 +1,4 @@
-# 103cuong
-
-> awesome repositories by 🦄 [@103cuong](https://github.com/103cuong)
-
-<p>
-  <img src="https://github.com/103cuong/103cuong/blob/master/cat.gif" alt="cat" width="250" />
-</p>
+<img src="./banner.png" alt="cat" width="600" />
 
 ## Linux
 
