@@ -1,5 +1,22 @@
 <img src="./banner.png" alt="cat" width="600" />
 
+<h4>
+    <a href="#linux">Linux</a> |
+    <a href="#js-ts">JavaScript / TypeScript</a> |
+    <a href="#react">React</a> |
+    <a href="#react-native">React Native</a> |
+    <a href="#node">Node</a> |
+    <a href="#go">Go</a> |
+    <a href="#python">Python</a> |
+    <a href="#flutter">Flutter</a> |
+    <a href="#dotnet">C# / .Net Core</a> |
+    <a href="#python">Python</a> |
+    <a href="#cplusplus">C++</a> |
+    <a href="#docker">Docker</a> |
+    <a href="#kubernetes">Kubernetes</a> |
+    <a href="#nginx">Nginx</a>
+</h4>
+
 ## Linux
 
 - [awesome-linux-apps](https://github.com/103cuong/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions. ![GitHub stars](https://img.shields.io/github/stars/103cuong/awesome-linux-apps?style=social)
@@ -8,7 +25,7 @@
 
 - [dotfiles](https://github.com/103cuong/dotfiles) - 📝 My dotfiles for Elementary OS. ![GitHub stars](https://img.shields.io/github/stars/103cuong/dotfiles?style=social)
 
-## JavaScript / TypeScript
+<h2 id="js-ts">JavaScript / TypeScript</h2>
 
 - [javascript](https://github.com/103cuong/javascript) - 👑☀️ Getting Started with JavaScript. ![GitHub stars](https://img.shields.io/github/stars/103cuong/javascript?style=social)
 
@@ -50,7 +67,7 @@
 
 - [mern-stack](https://github.com/103cuong/mern-stack) - 🗡️🍣 Getting Started with MERN Stack. ![GitHub stars](https://img.shields.io/github/stars/103cuong/mern-stack?style=social)
 
-## React Native
+<h2 id="react-native">React Native</h2>
 
 - [react-native](https://github.com/103cuong/react-native) - ⚛️📱 Getting Started with React Native. ![GitHub stars](https://img.shields.io/github/stars/103cuong/react-native?style=social)
 
@@ -143,11 +160,11 @@
 
 - [store-pattern](https://github.com/uiters/store-pattern) - 👑 The lightweight design pattern for small management applications. ![GitHub stars](https://img.shields.io/github/stars/uiters/store-pattern?style=social)
 
-- [4pet](https://github.com/4pet-social/4pet) - 📱 Mobile app for 4pet social. ![GitHub stars](https://img.shields.io/github/stars/4pet-social/4pet?style=social)
+- [4pet](https://github.com/4pet-social/4pet) - The mobile application for 4PET - The social network for your pet. ![GitHub stars](https://img.shields.io/github/stars/4pet-social/4pet?style=social)
 
 - [ting-coffee](https://github.com/uiters/ting-coffee) - 🍵 Management App for Ting Coffee. ![GitHub stars](https://img.shields.io/github/stars/uiters/ting-coffee?style=social)
 
-## C# / .Net Core
+<h2 id="dotnet">C# / .Net Core</h2>
 
 - [dotnetcore_container](https://github.com/103cuong/dotnetcore_container) - Wrapping .Net Core app in 🐳 container / Docker. ![GitHub stars](https://img.shields.io/github/stars/103cuong/dotnetcore_container?style=social)
 
@@ -165,7 +182,7 @@
 
 - [restaurant-management](https://github.com/uiters/restaurant-management) - 🍔🍟🍕🍺Restaurant Management App using C# and SQL Server. ![GitHub stars](https://img.shields.io/github/stars/uiters/restaurant-management?style=social)
 
-## C++
+<h2 id="cplusplus">C++</h2>
 
 - [Mega-Man-X3](https://github.com/uiters/Mega-Man-X3) - MegaMan3 with C++, Directx. ![GitHub stars](https://img.shields.io/github/stars/uiters/Mega-Man-X3?style=social)
 
