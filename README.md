@@ -83,18 +83,4 @@ Python                   3 repos             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 🧑🏻‍💻 Awesome repositories by me
-
-![103cuong's github stats](https://github-readme-stats.vercel.app/api?username=103cuong&show_icons=true&hide_border=true&count_private=true)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=103cuong&repo=fly-with-go)](https://github.com/103cuong/fly-with-go)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=103cuong&repo=awesome-linux-apps)](https://github.com/103cuong/awesome-linux-apps)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=4pet-social&repo=4pet)](https://github.com/4pet-social/4pet)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uiters&repo=store-pattern)](https://github.com/uiters/store-pattern)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=103cuong&repo=kubernetes)](https://github.com/103cuong/kubernetes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=103cuong&repo=hera)](https://github.com/103cuong/hera)
-
-
-**[💅 More awesome repositories ...](https://github.com/103cuong?tab=repositories)**
-
 2020 © [Cuong Tran](https://github.com/103cuong)
