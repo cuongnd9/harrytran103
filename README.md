@@ -1,4 +1,16 @@
-<img src="./banner.png" alt="cat" width="600" />
+![banner](https://raw.githubusercontent.com/103cuong/103cuong/master/banner.gif)
+
+## About me 🦄...
+
+- 🚀 I’m currently working at [4pet-social](https://github.com/4pet-social).
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/103cuong) | [Telegram](https://t.me/cuong103) | [Portfolio](https://103cuong.github.io/).
+- 💵 Hire [me](mailto:103cuong@gmail.com).
+
+![103cuong's github stats](https://github-readme-stats.vercel.app/api?username=103cuong&show_icons=true&hide_border=true&count_private=true)
+
+2020 © [@103cuong](https://github.com/103cuong)
+
+## Awesome repositories by me 🦄
 
 <h4>
     <a href="#linux">Linux</a> |
@@ -17,7 +29,7 @@
     <a href="#nginx">Nginx</a>
 </h4>
 
-## Linux
+### Linux
 
 - [awesome-linux-apps](https://github.com/103cuong/awesome-linux-apps) - 🚀 A list of awesome applications for 🐧 Linux distributions. ![GitHub stars](https://img.shields.io/github/stars/103cuong/awesome-linux-apps?style=social)
 
@@ -37,7 +49,7 @@
 
 - [ts-npm-template](https://github.com/103cuong/ts-npm-template) - A TypeScript template 🌼 for npm package. ![GitHub stars](https://img.shields.io/github/stars/103cuong/ts-npm-template?style=social)
 
-## React
+### React
 
 - [30-days-of-react](https://github.com/103cuong/30-days-of-react) - 🌲🚀 30 Days of React. ![GitHub stars](https://img.shields.io/github/stars/103cuong/30-days-of-react?style=social)
 
@@ -75,7 +87,7 @@
 
 - [tick](https://github.com/103cuong/tick) - ✔️ Tick: Task & Reminder. ![GitHub stars](https://img.shields.io/github/stars/103cuong/tick?style=social)
 
-## Node
+### Node
 
 - [30-days-of-node](https://github.com/103cuong/30-days-of-node) - 🚀🌍 30 Days of Node. ![GitHub stars](https://img.shields.io/github/stars/103cuong/30-days-of-node?style=social)
 
@@ -148,15 +160,15 @@
 
 - [magic-weather](https://github.com/103cuong/magic-weather) - 🚀 Magic ☀️ weather for terminal. ![GitHub stars](https://img.shields.io/github/stars/103cuong/magic-weather?style=social)
 
-## Go
+### Go
 
 - [fly-with-go](https://github.com/103cuong/fly-with-go) - 🐹 go is the language I want to 🛶 conquer next 🌍. ![GitHub stars](https://img.shields.io/github/stars/103cuong/fly-with-go?style=social)
 
-## Python
+### Python
 
 - [python](https://github.com/103cuong/python) - 🐍 Getting Started with Python. ![GitHub stars](https://img.shields.io/github/stars/103cuong/python?style=social)
 
-## Flutter
+### Flutter
 
 - [store-pattern](https://github.com/uiters/store-pattern) - 👑 The lightweight design pattern for small management applications. ![GitHub stars](https://img.shields.io/github/stars/uiters/store-pattern?style=social)
 
@@ -186,7 +198,7 @@
 
 - [Mega-Man-X3](https://github.com/uiters/Mega-Man-X3) - MegaMan3 with C++, Directx. ![GitHub stars](https://img.shields.io/github/stars/uiters/Mega-Man-X3?style=social)
 
-## Docker
+### Docker
 
 - [docker](https://github.com/103cuong/docker) - Explore 🐳 Docker. ![GitHub stars](https://img.shields.io/github/stars/103cuong/docker?style=social)
 
@@ -198,14 +210,17 @@
 
 - [prod-env](https://github.com/4pet-social/prod-env) - Docker for production environment ![GitHub stars](https://img.shields.io/github/stars/4pet-social/prod-env?style=social)
 
-## Kubernetes
+### Kubernetes
 
 - [kubernetes](https://github.com/103cuong/kubernetes) - Kubernetes from 🌱 zero to 🌲 hero. ![GitHub stars](https://img.shields.io/github/stars/103cuong/kubernetes?style=social)
 
 - [k8s](https://github.com/4pet-social/k8s) - Kubernetes for 4pet-social ![GitHub stars](https://img.shields.io/github/stars/4pet-social/k8s?style=social)
 
-## Nginx
+### Nginx
 
 - [nginx](https://github.com/103cuong/nginx) - nginx from zero to hero. ![GitHub stars](https://img.shields.io/github/stars/103cuong/nginx?style=social)
 
-## [More repositories ...](https://github.com/103cuong?tab=repositories)
+### [More repositories ...](https://github.com/103cuong?tab=repositories)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
