@@ -1,8 +1,6 @@
-![banner](https://raw.githubusercontent.com/103cuong/103cuong/master/banner.gif)
-
 ## 🦄 About me...
 
-- 🚀 I’m currently working at [4pet-social](https://github.com/4pet-social).
+- 🧑🏻‍💻 Software engineer [@4pet-social](https://github.com/4pet-social).
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/103cuong) | [Telegram](https://t.me/cuong103) | [Portfolio](https://103cuong.github.io/).
 - 💵 Hire [me](mailto:103cuong@gmail.com).
 
