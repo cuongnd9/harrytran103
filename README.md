@@ -4,7 +4,7 @@
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/103cuong) | [Telegram](https://t.me/cuong103) | [Portfolio](https://103cuong.github.io/).
 - 💵 Hire [me](mailto:103cuong@gmail.com).
 
-<details><summary>Dev metrics 💅</summary>
+<details><summary>Dev Metrics 💅</summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
