@@ -7,13 +7,13 @@
 <details><summary>Dev Metrics 💅</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,285 Contributions in the Year 2020
+> 🏆 2,287 Contributions in the Year 2020
  > 
 > 📦 496.6 kB Used in Github's Storage 
  > 
