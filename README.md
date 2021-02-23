@@ -1,3 +1,1 @@
-**Winners never quit and quitters never win.**
-
-Vince Lombardi
+“The purpose of our lives is to be happy.” — Dalai Lama.
