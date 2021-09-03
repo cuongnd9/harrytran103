@@ -1,4 +1,4 @@
-### Visit my project 👉 [https://ohmypet.app](https://ohmypet.app)
+### Join us | OhMyPet! 👉 [https://ohmypet.app](https://ohmypet.app)
 
 ```swift
    _
