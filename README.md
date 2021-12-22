@@ -1,4 +1,5 @@
-### Join us | OhMyPet! 👉 [https://ohmypet.app](https://ohmypet.app)
+### 👉 Join us | OhMyPet! 🦜 [https://ohmypet.app](https://ohmypet.app)
+### 📱 Contact me: @harrytran103 (Telegram - Messenger - Instagram)
 
 ```swift
    _
