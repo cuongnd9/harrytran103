@@ -1,24 +1,4 @@
 ### 👉 Join us | OhMyPet! 🦜 [https://ohmypet.app](https://ohmypet.app)
 ### 📱 Contact me: @harrytran103 (Telegram - Messenger - Instagram)
 
-```swift
-   _
- .~q`,
-{__,  \
-    \' \
-     \  \
-      \  \
-       \  `._            __.__
-        \    ~-._  _.==~~     ~~--.._
-         \        '                  ~-.
-          \      _-   -_                `.
-           \    /       }        .-    .  \
-            `. |      /  }      (       ;  \
-              `|     /  /       (       :   '\
-               \    |  /        |      /       \    =
-                |     /`-.______.\     |^-.      \
-                |   |/           (     |   `.      \_
-                |   ||            ~\   \      '._    `-.._____..----.._=__
-                |   |/             _\   \      =~-.__________.-~~~~~~~~~'''
-              .o'___/            .o______}
-```
+![gif](https://media.giphy.com/media/4uEdsl76ytnVu/giphy.gif)
