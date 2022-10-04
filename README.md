@@ -1,3 +1,3 @@
-My bio 😎 https://bio.link/harrytran103
+### Mình đã tiết kiệm 🤩 hàng trăm giờ 💸 mỗi năm nhờ một mẹo hết sức đơn giản.
+📱Khám phá tại [đây.](https://kdsmdnu426f.typeform.com/to/mskSNcUA)
 
-![image](https://cdn.bio.link/uploads/thumbnails/2022-09-18/wTUbt6XlmNYjMWfMploaded_VpJf7aYl.gif)
